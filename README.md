@@ -65,7 +65,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="Twitter" width="50%" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
   
   
   
