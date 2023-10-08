@@ -54,17 +54,17 @@
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"alt="Twitter"  style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Light.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Light.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
   
   
