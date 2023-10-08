@@ -1,7 +1,6 @@
 ### Hi there, I'm [Prathamesh Doni!] 👋.
 
 
-<br/>
 <a href="https://www.linkedin.com/in/prathamesh-doni-15aab8209/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -18,6 +17,7 @@
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
 </a>
 
+<br/>
 
 
 ### Hi 🙋‍♂️,
