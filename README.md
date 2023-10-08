@@ -20,7 +20,6 @@
 <br/>
 
 
-### Hi 🙋‍♂️,
 ### I'm 21 years old Self-taught Full-Stack developer from India.
 
 
