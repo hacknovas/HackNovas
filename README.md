@@ -35,7 +35,7 @@
 
 **I am Into,
 
-**Web Development, Blockchain Development, DevOps 😼**
+**Web Development, Blockchain Development and DevOps 😼**
 <br />
 
 
