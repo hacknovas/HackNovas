@@ -28,7 +28,7 @@
 ### I'm 21 years old Self-taught Full-Stack developer from India.
 
 
-#### - 🥀 Learning NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
+#### - 🥀 Learning NextJs <code> <img height="20" width="16" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"> </code> &Typescript <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>.
 
 #### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
 
@@ -53,13 +53,12 @@
 ### - Languages and Tools...
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50px" alt="Twitter" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" alt="Twitter" width="50px"  style="vertical-align:top; margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Light.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
