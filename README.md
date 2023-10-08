@@ -19,7 +19,6 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
 
 ### Hi 🙋‍♂️,
 ### I'm 21 years old Self-taught Full-Stack developer from India.
@@ -27,7 +26,7 @@
 
 #### - 🥀 Learning NextJs <code> <img height="20" width="16" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"> </code> &Typescript <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>.
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
+#### - 💬 Connect? Here 👉🏼[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" >](https://www.linkedin.com/in/prathamesh-doni-15aab8209/)
 
 
 <br />
