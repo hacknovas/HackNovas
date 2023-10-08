@@ -26,7 +26,7 @@
 
 #### - 🥀 Learning NextJs <code> <img height="20" width="16" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"> </code> &Typescript <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>.
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" >](https://www.linkedin.com/in/prathamesh-doni-15aab8209/)
+#### - 💬 Connect? Here 👉🏼[<img height="20" width="16"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" >](https://www.linkedin.com/in/prathamesh-doni-15aab8209/)
 
 
 <br />
