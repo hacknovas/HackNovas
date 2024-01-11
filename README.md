@@ -38,8 +38,7 @@
 **Web Development, Blockchain Development and DevOps 😼**
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacknovas)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=hacknovas)](https://github.com/FajarKim/github-readme-profile)
 <br />
 
 *************
