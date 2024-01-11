@@ -39,6 +39,7 @@
 <br />
 
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=hacknovas&theme=dark)]
+![hacknovas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hacknovas&theme=dark&show_icons=true&hide_border=true&layout=compact)
 <br />
 
 *************
