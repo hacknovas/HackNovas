@@ -1,4 +1,4 @@
-### Hi there, I'm [Prathamesh Doni!] 👋.
+### Hi there, I'm [Prathamesh Doni..!] 👋.
 
 
 <a href="https://www.linkedin.com/in/prathamesh-doni-15aab8209/">
@@ -20,7 +20,7 @@
 <br/>
 
 
-### I'm 21 years old Self-taught Full-Stack developer from India.
+### I'm 21 years old Self-taught Full-Stack Web developer from India.
 
 
 #### - 🥀 Learning NextJs <code> <img height="20" width="16" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"> </code> &Typescript <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>.
