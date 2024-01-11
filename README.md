@@ -38,7 +38,7 @@
 **Web Development, Blockchain Development and DevOps 😼**
 <br />
 
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=hacknovas)](https://github.com/FajarKim/github-readme-profile)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=hacknovas&theme=dark)]
 <br />
 
 *************
