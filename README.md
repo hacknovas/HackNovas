@@ -25,7 +25,7 @@
 
 #### - 🥀 Learning NextJs <code> <img height="20" width="16" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"> </code> &Typescript <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>.
 
-#### - Aspiring cloud learner exploring AWS...
+#### - Aspiring cloud learner exploring AWS. <code>https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg</code>
 
 #### - 📧 Email: creatives.doni@gmail.com
 
