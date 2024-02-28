@@ -23,7 +23,7 @@
 ### I'm 21 years old Self-taught Full-Stack Web developer from India.
 
 
-#### - &Typescript <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>.
+#### - Working with Typescript <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>.
 
 #### - <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" height="20"></code> Aspiring cloud learner exploring AWS. <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height="20"></code>
 
@@ -37,7 +37,7 @@
 
 **I am Into,
 
-**Web Development, Blockchain Development and DevOps 😼**
+**Web Development, Blockchain Development and Implementing DevOps concept😼**
 <br />
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=hacknovas&theme=dark)
