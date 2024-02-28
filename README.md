@@ -23,7 +23,7 @@
 ### I'm 21 years old Self-taught Full-Stack Web developer from India.
 
 
-#### - 🥀 Learning NextJs <code> <img height="20" width="16" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"> </code> &Typescript <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>.
+#### - &Typescript <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>.
 
 #### - <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" height="20"></code> Aspiring cloud learner exploring AWS. <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height="20"></code>
 
