@@ -4,10 +4,10 @@ I'm a self-taught Full-Stack Web developer from India, passionate about building
 
 #### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prathamesh-doni-15aab8209/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/PrathameshDoni)
+[![X](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=X)](https://twitter.com/PrathameshDoni)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/Hacknovas)
 [![Instagram](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram)](https://www.instagram.com/the_prathamesh_doni/)
-[![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)](https://hub.docker.com/u/prathameshdoni)
+[![DockerHub](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)](https://hub.docker.com/u/prathameshdoni)
 
 ### About Me:
 - 🎓 Self-taught Full-Stack Web Developer
