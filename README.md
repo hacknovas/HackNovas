@@ -18,8 +18,8 @@ I'm a self-taught Full-Stack Web developer from India, passionate about building
 #### Languages:
 
 <img src="" />
-![C++](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />) 
-![Solidity](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg) 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50px" style="vertical-align:top; margin:4px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" width="50px" style="vertical-align:top; margin:4px"/> 
 
           
 #### Frontend:
