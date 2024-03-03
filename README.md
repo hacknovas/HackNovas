@@ -71,7 +71,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50px" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" width="50px" alt="Twitter" style="vertical-align:top; margin:4px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px" alt="Twitter" style="vertical-align:top; margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50px" alt="Twitter" style="vertical-align:top; margin:4px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="50px" alt="Twitter" style="vertical-align:top; margin:4px"/>
           
   
