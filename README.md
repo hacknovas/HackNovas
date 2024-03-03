@@ -1,89 +1,58 @@
-### Hi there, I'm [Prathamesh Doni..!] 👋.
+### Hi there, I'm Prathamesh Doni! 👋
 
+I'm a self-taught Full-Stack Web developer from India, passionate about building innovative solutions using cutting-edge technologies.
 
-<a href="https://www.linkedin.com/in/prathamesh-doni-15aab8209/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/PrathameshDoni">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://t.me/Hacknovas">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/the_prathamesh_doni/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://hub.docker.com/u/prathameshdoni">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-</a>
+#### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prathamesh-doni-15aab8209/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/PrathameshDoni)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/Hacknovas)
+[![Instagram](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram)](https://www.instagram.com/the_prathamesh_doni/)
+[![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)](https://hub.docker.com/u/prathameshdoni)
 
-<br/>
+### About Me:
+- 🎓 Self-taught Full-Stack Web Developer
+- 💼 Working with Typescript and exploring AWS
+- 📧 Email: creatives.doni@gmail.com
 
+### Skills and Tools:
+#### Languages:
 
-### I'm 21 years old Self-taught Full-Stack Web developer from India.
+<img src="" />
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg) 
+![Solidity](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg) 
 
-
-#### - Working with Typescript <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>.
-
-#### - <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" height="20"></code> Aspiring cloud learner exploring AWS. <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height="20"></code>
-
-#### - 📧 Email: creatives.doni@gmail.com
-
-#### - 💬 Connect? Here 👉🏼[<img height="20" width="16"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" >](https://www.linkedin.com/in/prathamesh-doni-15aab8209/)
-
-
-<br />
-
-
-**I am Into,
-
-**Web Development, Blockchain Development and Implementing DevOps concept😼**
-<br />
-
-![hacknovas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hacknovas&show_icons=true&theme=dark&hide_border=true&layout=compact)
-
-<br />
-
-*************
-
-<br />
-
-### - Languages and Tools...
-
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50px" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
-<!--   https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg -->
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" alt="Twitter" width="50px"  style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Light.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50px" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" width="50px" alt="Twitter" style="vertical-align:top; margin:4px"/>
           
-  
-  
-  
+#### Frontend:
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
 
-</p>
+#### Backend:
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-blue?style=flat-square&logo=express)
 
+#### DataBase:
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
 
+#### DevOps:
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+![Jenkins](https://img.shields.io/badge/-Jenkins-yellow?style=flat-square&logo=jenkins)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes)
 
-***********************************
+#### Other Tools:
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Hardhat](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg)
 
-#### Thank You-🙏🏼
+          
 
+### Education:
+- Bachelor's in Computer Engineering 
 
-
-⭐️ From [hacknovas](https://github.com/hacknovas)
+#### Thank You for visiting! Feel free to reach out. 🙏🏼
