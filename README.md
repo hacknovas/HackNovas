@@ -18,7 +18,7 @@ I'm a self-taught Full-Stack Web developer from India, passionate about building
 #### Languages:
 
 <img src="" />
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg) 
+![C++](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />) 
 ![Solidity](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg) 
 
           
