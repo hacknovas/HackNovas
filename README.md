@@ -90,4 +90,3 @@
 
 ⭐️ From [hacknovas](https://github.com/hacknovas)
 
-update this with company standards gothub readme so that interviewr get impress
