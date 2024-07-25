@@ -35,9 +35,10 @@
 <br />
 
 
-**I am Into,
+** I am Into,
 
-**Web Development, Blockchain Development and Implementing DevOps concept😼**
+** Web Development, Blockchain Development and DevOps 😼**
+<br />
 <br />
 ![hacknovas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hacknovas&theme=vue-dark&hide_border=true)
 ![hacknovas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hacknovas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
@@ -88,5 +89,5 @@
 
 
 
-⭐️ From [hacknovas](https://github.com/hacknovas)
+⭐️ From [hacknovas (Prathamesh Doni)](https://github.com/hacknovas)
 
