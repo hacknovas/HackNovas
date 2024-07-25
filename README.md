@@ -89,5 +89,5 @@
 
 
 
-⭐️ From [hacknovas (Prathamesh Doni)](https://github.com/hacknovas)
+From [hacknovas (Prathamesh Doni)](https://github.com/hacknovas)
 
