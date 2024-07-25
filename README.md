@@ -1,4 +1,4 @@
-### Hello there, I'm [Prathamesh Doni..!] 👋.
+### Hello there, I'm Prathamesh Doni.
 
 
 <a href="https://www.linkedin.com/in/prathamesh-doni-15aab8209/">
