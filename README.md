@@ -29,6 +29,8 @@
 
 #### - 📧 Email: creatives.doni@gmail.com
 
+#### - 📧 Portfolio: doniprathamesh.me
+
 #### - 💬 Connect? Here 👉🏼[<img height="20" width="16"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" >](https://www.linkedin.com/in/prathamesh-doni-15aab8209/)
 
 
