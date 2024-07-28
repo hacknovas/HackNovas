@@ -1,4 +1,4 @@
-### Hello there, I'm Prathamesh Doni.
+### Hello there, I'm Prathamesh Doni 💻.
 
 
 <a href="https://www.linkedin.com/in/prathamesh-doni-15aab8209/">
@@ -29,9 +29,9 @@
 
 #### - 📧 Email: creatives.doni@gmail.com
 
-#### - 📧 Portfolio: [<img height="20" width="16"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" >](doniprathamesh.me/)
+#### - 🔎 Portfolio: 👉🏼 [](doniprathamesh.me/)
 
-#### - 💬 Connect? Here 👉🏼[<img height="20" width="16"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" >](https://www.linkedin.com/in/prathamesh-doni-15aab8209/)
+#### - 💬  Connect? Here 👉🏼 [<img height="20" width="16"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" >](https://www.linkedin.com/in/prathamesh-doni-15aab8209/)
 
 
 <br />
@@ -39,7 +39,7 @@
 
 I am Into,
 
-Web Development, Blockchain Development and DevOps 😼
+💻 Web Development, Blockchain Development and DevOps 😼
 <br />
 <br />
 ![hacknovas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hacknovas&theme=vue-dark&hide_border=true)
