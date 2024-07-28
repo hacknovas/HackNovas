@@ -35,9 +35,9 @@
 <br />
 
 
-** I am Into,
+I am Into,
 
-** Web Development, Blockchain Development and DevOps 😼**
+Web Development, Blockchain Development and DevOps 😼
 <br />
 <br />
 ![hacknovas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hacknovas&theme=vue-dark&hide_border=true)
