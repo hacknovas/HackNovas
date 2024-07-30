@@ -31,6 +31,8 @@
 
 #### - 🔎 Portfolio: [doniprathamesh.me](https://doniprathamesh.me)
 
+#### - 🔎 Resume: [Click Here](https://drive.google.com/file/d/1a0ybZz9Abl4fHeaRQapov3d_-YxWvR5p/view)
+
 #### - 💬  Connect? Here 👉🏼 [<img height="20" width="16"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" >](https://www.linkedin.com/in/prathamesh-doni-15aab8209/)
 
 
