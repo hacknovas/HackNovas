@@ -95,7 +95,3 @@ I am Into,
 
 From [hacknovas (Prathamesh Doni)](https://github.com/hacknovas)
 
-<script>alert(document.domain)</script>
-<button value="submit"></button>
-
-
