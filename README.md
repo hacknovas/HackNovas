@@ -20,8 +20,7 @@
 <br/>
 
 
-### I'm a Full-Stack Web and Blockchain developer from India.
-
+### I'm a Full-Stack Web and Blockchain developer.
 
 #### - Working with Typescript <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>.
 
