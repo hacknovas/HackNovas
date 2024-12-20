@@ -2,27 +2,25 @@
 
 
 <a href="https://www.linkedin.com/in/prathamesh-doni-15aab8209/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" />
 </a>
 <a href="https://twitter.com/PrathameshDoni">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" />
 </a>
-<a href="https://t.me/Hacknovas">
+<!-- <a href="https://t.me/Hacknovas">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+</a> -->
 <a href="https://www.instagram.com/the_prathamesh_doni/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" />
 </a>
 <a href="https://hub.docker.com/u/prathameshdoni">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+  <img align="left" alt=" Reddit" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />
 </a>
 
 <br/>
 
 
 ### I'm a Full-Stack Web and Blockchain developer.
-
-#### - Working with Typescript <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>.
 
 #### - <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" height="20"></code> Aspiring Cloud learner exploring AWS and DevOps concepts. <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height="20"></code>
 
