@@ -63,6 +63,9 @@ I am Into,
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
+  
 <!--   https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg -->
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
