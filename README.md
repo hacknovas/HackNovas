@@ -28,7 +28,7 @@
 
 #### - 🔎 Portfolio: [doniprathamesh.live](https://doniprathamesh.live)
 
-#### - 🔎 CV: [Click Here](https://drive.google.com/file/d/1a0ybZz9Abl4fHeaRQapov3d_-YxWvR5p/view)
+#### - 🔎 CV: [Click Here](https://drive.google.com/file/d/1HH3eLNn7yXGfyJfq6k_pNIfaK6Pw2iPt/view)
 
 #### - 💬  Connect? Here 👉🏼 [<img height="20" width="16"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" >](https://www.linkedin.com/in/prathamesh-doni-15aab8209/)
 
