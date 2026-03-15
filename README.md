@@ -20,7 +20,7 @@
 <br/>
 
 
-### I'm a Full-Stack Developer and Blockchain developer.
+### I'm a Full-Stack Developer and Blockchain Developer.
 
 #### - <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" height="20"></code> Aspiring Cloud learner exploring AWS, Azure and DevOps concepts. <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height="20"></code>
 
