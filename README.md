@@ -1,4 +1,4 @@
-### Hello there, I'm Prathamesh Doni 💻.
+### Hello Coder..!, I'm Prathamesh Doni 💻.
 
 
 <a href="https://www.linkedin.com/in/prathamesh-doni-15aab8209/">
@@ -26,9 +26,9 @@
 
 #### - 📧 Email: creatives.doni@gmail.com
 
-#### - 🔎 Portfolio: [doniprathamesh.live](https://doniprathamesh.tech)
+#### - 🔎 Portfolio: [doniprathamesh.tech](https://doniprathamesh.tech)
 
-#### - 🔎 CV: [Click Here](https://drive.google.com/file/d/1HH3eLNn7yXGfyJfq6k_pNIfaK6Pw2iPt/view)
+#### - 🔎 CV: [Click Here](https://drive.google.com/file/d/1uxls2XZ7ZmxfHpkyZjaPq_UVfl33QFvl/view?usp=sharing)
 
 #### - 💬  Connect? Here 👉🏼 [<img height="20" width="16"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" >](https://www.linkedin.com/in/prathamesh-doni-15aab8209/)
 
