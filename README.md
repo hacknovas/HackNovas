@@ -26,7 +26,7 @@
 
 #### - 📧 Email: creatives.doni@gmail.com
 
-#### - 🔎 Portfolio: [doniprathamesh.live](https://doniprathamesh.live)
+#### - 🔎 Portfolio: [doniprathamesh.live](https://doniprathamesh.tech)
 
 #### - 🔎 CV: [Click Here](https://drive.google.com/file/d/1HH3eLNn7yXGfyJfq6k_pNIfaK6Pw2iPt/view)
 
